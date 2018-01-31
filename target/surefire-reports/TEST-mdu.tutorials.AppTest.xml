@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="mdu.tutorials.AppTest" time="0" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="mdu.tutorials.AppTest" time="0.03" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\lumthayi\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8991267755067724288.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\lumthayi\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1728789231367447921.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_151\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_151/bin/server;C:/Program Files/Java/jre1.8.0_151/bin;C:/Program Files/Java/jre1.8.0_151/lib/amd64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\lumthayi\AppData\Local\Android\Sdk\platform-tools;C:\Users\lumthayi\AppData\Local\Android\Sdk\tools;C:\Program Files\Android\Android Studio\gradle\gradle-2.10\bin;C:\Program Files\Java\jre1.8.0_151\bin;C:\Users\lumthayi\AppData\Roaming\npm;C:\Users\lumthayi\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Java\jre1.8.0_151\bin;C:\Program Files\Docker Toolbox;C:\Users\lumthayi\maven\bin;C:\Users\lumthayi\Pictures\eclipse\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="mdu.tutorials.AppTest" name="testApp" time="0"/>
+  <testcase classname="mdu.tutorials.AppTest" name="testApp" time="0.03"/>
 </testsuite>
